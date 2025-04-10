@@ -1,5 +1,6 @@
 import Hero from '@/components/layout/Hero';
-import FeaturedCars from '@/components/cars/FeaturedCars';
+import FeaturedCars from '@/components/cars/FeaturedCar';
+
 import Link from 'next/link';
 
 export default function Home() {
